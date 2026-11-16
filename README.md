@@ -6,7 +6,7 @@ My engineering background includes serving as **Principal Engineer at Microsoft*
 
 I build practical software, functional AI agents, and products that solve real problems without unnecessary complexity.
 
-Once, I re-architected a service to handle around **14 transactions per second without downtime**. It worked like a charm!
+Once, I re-architected a service to handle around **14M transactions per second without downtime**. It worked like a charm!
 
 ### Things I've built
 
