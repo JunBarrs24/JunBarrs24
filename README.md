@@ -1,16 +1,19 @@
-## Hi there 👋
+# Juan Barrera Valdés
 
-<!--
-**JunBarrs24/JunBarrs24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer at **RevenueCat**, working on AI agents.
 
-Here are some ideas to get you started:
+My engineering background includes serving as **Principal Engineer at Microsoft** and **Engineering Lead at Felix**, along with experience as a **Senior Software Engineer at Google and Amazon**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build practical software, functional AI agents, and products that solve real problems without unnecessary complexity.
+
+Once, I re-architected a service to handle around **14 transactions per second without downtime**. It worked like a charm!
+
+### Things I've built
+
+- [StoneVsSilicon](https://cosaseria.mx/StoneVsSilicon)
+- [AuxiDocente](https://auxidocente.com)
+- [ValladolIA](https://valladolia.com)
+
+Based in **Morelia, Mexico**.
+
+[LinkedIn](https://www.linkedin.com/in/junbarrs/)
